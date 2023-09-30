@@ -1,2 +1,2 @@
 # Hi there 👋
-I am an undergraduate cs student of NUCES
+I am an undergraduate CS student of NUCES
